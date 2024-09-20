@@ -24,5 +24,6 @@ Este texto esta en *cursiva*
 
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "eres gay")
 
-![Pug](https://github.com/CRBalta/24-25SMX2_Act0_RepoEjemplo/blob/main/pug.jpg "Tonto")
+![Pug](https://github.com/CRBalta/24-25SMX2_Act0_RepoEjemplo/blob/main/alberto.jpeg "Tonto")
+
 

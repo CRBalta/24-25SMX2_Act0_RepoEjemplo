@@ -20,3 +20,7 @@ Este texto esta en *cursiva*
 + Elemento 2
 - Elemento 3
 
+``Encabezado``
+
+[Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "eres gay")
+

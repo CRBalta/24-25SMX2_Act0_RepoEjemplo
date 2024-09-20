@@ -1,5 +1,8 @@
 # 24-25SMX2_Act0_RepoEjemplo
-Primer repositorio/ejemplo
 
-#Quien lo lea és gay. vcbvdbfdjhb
-vsejhfhjdszjhdfhfv,bdfhzdfjhdfhj
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### H4 
+##### H5 
+###### H6

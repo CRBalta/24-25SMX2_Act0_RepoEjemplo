@@ -24,11 +24,13 @@ Este texto esta en *cursiva*
 
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "eres gay")
 
-![Pug](https://github.com/CRBalta/24-25SMX2_Act0_RepoEjemplo/blob/main/alberto.jpeg "Tonto")
-![Pug](https://github.com/CRBalta/24-25SMX2_Act0_RepoEjemplo/blob/main/pedro.jpeg "Tonto")
+
 
 |Columna 1 | Columna 2 | Columna 3 | 
 |--------------------|:-----------:|--------------|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centred|$12|
+|Col 1 es |centred|$12|
 
 
 

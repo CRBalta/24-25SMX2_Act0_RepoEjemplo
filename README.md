@@ -31,6 +31,7 @@ Este texto esta en *cursiva*
 |Col 3 es |right-aligned|$1600|
 |Col 2 es |centred|$12|
 |Col 1 es |centred|$12|
+|Zebra stripes|son limpias|$1|
 
 
 

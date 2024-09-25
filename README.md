@@ -27,6 +27,8 @@ Este texto esta en *cursiva*
 ![Pug](https://github.com/CRBalta/24-25SMX2_Act0_RepoEjemplo/blob/main/alberto.jpeg "Tonto")
 ![Pug](https://github.com/CRBalta/24-25SMX2_Act0_RepoEjemplo/blob/main/pedro.jpeg "Tonto")
 
+|Columna 1 | Columna 2 | Columna 3 | 
+|--------------------|:-----------:|--------------|
 
 
 
